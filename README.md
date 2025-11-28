@@ -1,9 +1,6 @@
 # **Responsive Portfolio Website – Lab Assignment**
 
 This project is a one-page responsive **Portfolio Website** built using **Flexbox, CSS Grid, media queries, animations, and modern CSS units**.
-It is an enhanced version of **Lab 2**, upgraded with a cleaner layout, better responsiveness, and interactive UI effects.
-
----
 
 ## **📌 Project Overview**
 
@@ -94,15 +91,7 @@ To verify the layout, open `index.html` and check the following breakpoints:
 
 ---
 
-## **🚀 How to Run the Project**
-
-1. Download or clone the repository
-2. Open `index.html` in any browser
-3. Resize the browser window to test responsiveness
-4. Check animations, hover effects, and section layouts
-
-
-
----
-
-If you want, I can **create the HTML + CSS files** for this entire project too — just tell me!
+# Name: Jayesh Shrivastava
+# Course: Btech cse data science
+# date: 28 november 2025
+# Submitted to: Vishal sir
