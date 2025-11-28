@@ -34,6 +34,12 @@ The goal of this assignment is to design and build a polished portfolio website 
 6. **Contact Section** – Simple contact form (Name, Email, Message)
 7. **Footer** – Copyright + social links
 
+
+
+# Name: Jayesh Shrivastava
+# Course: Btech cse data science
+# date: 28 november 2025
+# Submitted to: Vishal sir
 ---
 
 ## **🛠️ Key Features Implemented**
@@ -107,4 +113,5 @@ To verify the layout, open `index.html` and check the following breakpoints:
 ---
 
 If you want, I can **create the HTML + CSS files** for this entire project too — just tell me!
+
 
