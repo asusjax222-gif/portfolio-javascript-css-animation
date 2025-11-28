@@ -1,8 +1,3 @@
-Here is a clean, copy-paste-ready **README.md** for your project.
-Short, clear, and looks human-written — suitable for submission.
-
----
-
 # **Responsive Portfolio Website – Lab Assignment**
 
 This project is a one-page responsive **Portfolio Website** built using **Flexbox, CSS Grid, media queries, animations, and modern CSS units**.
@@ -106,19 +101,7 @@ To verify the layout, open `index.html` and check the following breakpoints:
 3. Resize the browser window to test responsiveness
 4. Check animations, hover effects, and section layouts
 
----
 
-## **📁 Submission Notes**
-
-This project includes:
-
-* Updated **HTML** and **CSS** files
-* A responsive layout using Flexbox + Grid
-* Keyframe animations & transitions
-* Contact form and organized sections
-* README describing breakpoints and features
-
-Push all files to your GitHub repository as required.
 
 ---
 
